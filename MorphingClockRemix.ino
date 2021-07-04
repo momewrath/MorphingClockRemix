@@ -1,9 +1,14 @@
 /*
-remix from HarryFun's great Morphing Digital Clock idea https://github.com/hwiguna/HariFun_166_Morphing_Clock
-follow the great tutorial there and eventually use this code as alternative
+Remix of lmirel's (https://github.com/lmirel/MorphingClockRemix) remix of HariFun's Morphing Digital Clock idea https://github.com/hwiguna/HariFun_166_Morphing_Clock
+
+HariFun's tutorial and code will get you set up with a basic 6 digit clock.
+
+LMirel's remix adds weather information and date.
+
+This further remix, updated some libraries, reorganized some code and changed the layout a bit.
 
 provided 'AS IS', use at your own risk
- * mirel.t.lazar@gmail.com
+ * fray2200@gmail.com
  */
 
 #include <TimeLib.h>
